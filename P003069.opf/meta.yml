@@ -4,4 +4,9 @@ source_metadata:
   id: bdr:W8LS18460
   title: སྨན་དཔྱད་བདུད་རྩའི་བུམ་པ།
   author: ''
-  volumes: {}
+  volumes:
+    6bac68029bca4e76b2e400a689925a6e:
+      image_group_id: I8LS18462
+      title: ''
+      volume_number: 1
+      total_pages: 389
